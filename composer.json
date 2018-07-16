@@ -1,0 +1,20 @@
+{
+    "name": "xoptov/mirafox-football-predictor",
+    "description": "This is code for test project from Mirafox Ltd.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maksim Khortov",
+            "email": "xoptov@mail.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "respect/validation": "^1.1"
+    }
+}
